@@ -1,5 +1,5 @@
-# onefish
+# Flutter-architecture-templates
 
-OneFishApp Appliction for WorldFish
+Flutter-architecture-templates
 
 ## Getting Started
