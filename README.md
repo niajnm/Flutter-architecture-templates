@@ -1,2 +1,5 @@
-# Flutter-architecture-templates
-Mvvm pattern,  Provider,  Dio Client 
+# onefish
+
+OneFishApp Appliction for WorldFish
+
+## Getting Started
